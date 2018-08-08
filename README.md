@@ -1,3 +1,3 @@
 # Codes
 
-Small programs chalenges and excersises 
+Small programs challenges and exercises
